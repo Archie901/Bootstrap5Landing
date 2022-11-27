@@ -11,7 +11,7 @@ function validate2() {
   let element2 = document.getElementById("inputFirstName");
   let el_value2 = document.getElementById("inputFirstName").value;
     if (el_value2 === "") {
-      element2.placeholder = "This field is required";
+      element2.placeholder = "This field is FUCK YOU!!!";
     } else {
       element2.placeholder = "";
     }
