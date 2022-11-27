@@ -16,7 +16,7 @@ a {
 	text-decoration: none;
 }
 .nav-link:hover {
-	text-decoration: underline;
+	text-decoration: overline;
 }
 .gradient {
 	background: rgb(124,132,236);
@@ -43,7 +43,7 @@ a {
 	margin-bottom: 1rem;
 }
 .icon {
-	color: white;
+	color: darkred;
 	height: 5rem;
 	width: 5rem;
 	font-size: 1.75rem;
