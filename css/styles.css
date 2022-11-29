@@ -1,6 +1,6 @@
 html, body {
 	height: 100%;
-	font-size: 2rem;
+	font-size: 1rem;
 	font-family: 'Montserrat', sans-serif;
 	font-family: 'Work Sans', sans-serif;
 	/*scroll-behavior: smooth;*/
@@ -12,8 +12,8 @@ footer {
 	padding: 1rem;
 }
 a {
-	color: white;
-	text-decoration: none;
+	color: darkred;
+	text-decoration: underline;
 }
 .nav-link:hover {
 	text-decoration: underline;
@@ -25,7 +25,7 @@ a {
 }
 .page-header {
 	margin-top: 4rem;
-	color: white;
+	color: black;
 }
 .feature {
 	color: white;
