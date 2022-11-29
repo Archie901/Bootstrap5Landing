@@ -28,8 +28,9 @@ a {
 	color: black;
 }
 .feature {
-	color: white;
-	padding-bottom: 10px;
+	color: mediumpurple;
+	padding-bottom: 23px;
+	text-align: right;
 }
 .feature ul {
 	padding-left: 2rem;
