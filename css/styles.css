@@ -1,9 +1,9 @@
 html, body {
 	height: 100%;
-	font-size: 1rem;
+	font-size: 2rem;
 	font-family: 'Montserrat', sans-serif;
 	font-family: 'Work Sans', sans-serif;
-	scroll-behavior: smooth;
+	/*scroll-behavior: smooth;*/
 }
 footer {
 	color: white;
